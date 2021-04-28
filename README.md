@@ -3,4 +3,4 @@ Podstawowy, prosty program do pobierania filmów z YouTube. Póki co wymaga pyth
 
 Jeżeli nie działa to upewnij się że masz python 3.9, PySimpleGUI i pytube.
 Lokalizacja pliku musi byc podana w taki sposób (przykład: C:\Users\Dell\Desktop\Śmieszne programy\Moje)
-Wystarczy że się kliknie w flderze klinie się taki pasek na górze.
+Wystarczy że się kliknie w folderze taki pasek na górze.
